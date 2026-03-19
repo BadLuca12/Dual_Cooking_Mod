@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cookingmod",
+  "version": "${version}",
+  "name": "Mars Station Cooking",
+  "description": "Kochen von Gerichten und Pferdefleisch-Verarbeitung zu Landjäger!",
+  "authors": ["MarsStation"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.marsstation.cooking.CookingMod"]
+  },
+  "mixins": ["cookingmod.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1"
+  }
+}

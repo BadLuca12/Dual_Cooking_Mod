@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EWE",
+    "WMW",
+    "EWE"
+  ],
+  "key": {
+    "E": {"item": "minecraft:egg"},
+    "W": {"item": "minecraft:wheat"},
+    "M": {"item": "minecraft:milk_bucket"}
+  },
+  "result": {
+    "id": "cookingmod:pancakes",
+    "count": 3
+  }
+}

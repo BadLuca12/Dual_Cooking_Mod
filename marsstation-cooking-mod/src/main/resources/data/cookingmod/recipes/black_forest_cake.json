@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "CDC",
+    "SCS"
+  ],
+  "key": {
+    "S": {"item": "minecraft:sugar"},
+    "C": {"item": "minecraft:cocoa_beans"},
+    "D": {"item": "cookingmod:dough"}
+  },
+  "result": {
+    "id": "cookingmod:black_forest_cake",
+    "count": 1
+  }
+}

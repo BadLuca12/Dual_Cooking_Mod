@@ -1,0 +1,17 @@
+{
+  "itemGroup.cookingmod.cooking_group": "Mars Station Kochen",
+
+  "item.cookingmod.raw_horse_meat": "Rohes Pferdefleisch",
+  "item.cookingmod.cooked_horse_meat": "Gebratenes Pferdefleisch",
+  "item.cookingmod.landjaeger": "Landjäger",
+  "item.cookingmod.dough": "Teig",
+  "item.cookingmod.goulash": "Gulasch",
+  "item.cookingmod.vegetable_soup": "Gemüsesuppe",
+  "item.cookingmod.herb_chicken": "Kräuterhuhn",
+  "item.cookingmod.fish_stew": "Fischsuppe",
+  "item.cookingmod.festive_roast": "Festtagsbraten",
+  "item.cookingmod.mushroom_risotto": "Pilzrisotto",
+  "item.cookingmod.pancakes": "Pfannkuchen",
+  "item.cookingmod.homemade_bread": "Selbstgebackenes Brot",
+  "item.cookingmod.black_forest_cake": "Schwarzwälder Kirschtorte"
+}

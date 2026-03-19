@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WBW",
+    "WWW"
+  ],
+  "key": {
+    "W": {"item": "minecraft:wheat"},
+    "B": {"item": "minecraft:water_bucket"}
+  },
+  "result": {
+    "id": "cookingmod:dough",
+    "count": 3
+  }
+}

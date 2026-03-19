@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.marsstation.cooking.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["HorseMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

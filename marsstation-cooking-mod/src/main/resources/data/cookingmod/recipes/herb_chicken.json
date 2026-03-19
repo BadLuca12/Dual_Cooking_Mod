@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GCG",
+    "GGG"
+  ],
+  "key": {
+    "G": {"item": "minecraft:green_dye"},
+    "C": {"item": "minecraft:cooked_chicken"}
+  },
+  "result": {
+    "id": "cookingmod:herb_chicken",
+    "count": 1
+  }
+}

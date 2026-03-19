@@ -1,0 +1,17 @@
+{
+  "itemGroup.cookingmod.cooking_group": "Mars Station Cooking",
+
+  "item.cookingmod.raw_horse_meat": "Raw Horse Meat",
+  "item.cookingmod.cooked_horse_meat": "Cooked Horse Meat",
+  "item.cookingmod.landjaeger": "Landjäger Sausage",
+  "item.cookingmod.dough": "Dough",
+  "item.cookingmod.goulash": "Goulash",
+  "item.cookingmod.vegetable_soup": "Vegetable Soup",
+  "item.cookingmod.herb_chicken": "Herb Chicken",
+  "item.cookingmod.fish_stew": "Fish Stew",
+  "item.cookingmod.festive_roast": "Festive Roast",
+  "item.cookingmod.mushroom_risotto": "Mushroom Risotto",
+  "item.cookingmod.pancakes": "Pancakes",
+  "item.cookingmod.homemade_bread": "Homemade Bread",
+  "item.cookingmod.black_forest_cake": "Black Forest Cake"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GPG",
+    "PMP",
+    "GPG"
+  ],
+  "key": {
+    "G": {"item": "minecraft:golden_apple"},
+    "P": {"item": "minecraft:cooked_porkchop"},
+    "M": {"item": "cookingmod:cooked_horse_meat"}
+  },
+  "result": {
+    "id": "cookingmod:festive_roast",
+    "count": 1
+  }
+}

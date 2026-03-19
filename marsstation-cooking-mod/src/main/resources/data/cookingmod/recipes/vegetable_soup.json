@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CPC",
+    "PBP",
+    "CPC"
+  ],
+  "key": {
+    "C": {"item": "minecraft:carrot"},
+    "P": {"item": "minecraft:potato"},
+    "B": {"item": "minecraft:bowl"}
+  },
+  "result": {
+    "id": "cookingmod:vegetable_soup",
+    "count": 1
+  }
+}

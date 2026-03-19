@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBC",
+    "BPB",
+    "CBC"
+  ],
+  "key": {
+    "C": {"item": "minecraft:carrot"},
+    "B": {"item": "minecraft:beef"},
+    "P": {"item": "minecraft:bowl"}
+  },
+  "result": {
+    "id": "cookingmod:goulash",
+    "count": 1
+  }
+}

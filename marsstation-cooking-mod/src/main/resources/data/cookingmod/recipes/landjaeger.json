@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SMS",
+    "MHM",
+    "SMS"
+  ],
+  "key": {
+    "S": {"item": "minecraft:sugar"},
+    "M": {"item": "cookingmod:raw_horse_meat"},
+    "H": {"item": "minecraft:dried_kelp"}
+  },
+  "result": {
+    "id": "cookingmod:landjaeger",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MRM",
+    "RBR",
+    "MRM"
+  ],
+  "key": {
+    "M": {"item": "minecraft:brown_mushroom"},
+    "R": {"item": "minecraft:wheat"},
+    "B": {"item": "minecraft:bowl"}
+  },
+  "result": {
+    "id": "cookingmod:mushroom_risotto",
+    "count": 1
+  }
+}
